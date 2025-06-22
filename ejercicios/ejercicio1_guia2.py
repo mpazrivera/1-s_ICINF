@@ -1,3 +1,5 @@
+#Nombres de los integrantes: Hector Tobar, María Rivera
+
 print("Ingrese a continuación un párrafo: ")
 texto = input("Ingrese su texto aqui: ")
 if len(texto) == 0:

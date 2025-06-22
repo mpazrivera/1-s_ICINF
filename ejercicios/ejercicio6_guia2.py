@@ -1,3 +1,5 @@
+#Nombre de los integrantes: Hector Tobar y Maria Rivera
+
 # Simulación de un reloj digital de 00:00:00 a 23:59:59
 
 for hora in range(24):           # Horas: 0 a 23

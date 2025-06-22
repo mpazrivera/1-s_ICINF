@@ -1,3 +1,5 @@
+#Nombre de los integrantes: Hector Tobar, Maria Rivera
+
 # Inicialización de variables
 suma = 0
 ascendente = 500
